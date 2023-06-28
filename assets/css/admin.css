@@ -1,0 +1,27 @@
+body{
+    background-image: url(../img/blue-simple-brick-gradient-wallpaper-preview.jpg);
+}
+header h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    display: flex;
+    justify-content: center;
+}
+.libro{
+    width: 320px;
+    height: 200px;
+    padding: 20px 610px;
+}
+.botones{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white
+    ;
+}
+.pagina{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.autor{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
